@@ -5,6 +5,8 @@
 
 #push to git
 git add README.md
+git add .   #se quiser adicionar todos os files dessa folder
+git status
 git commit -m "first commit"
-git remote add origin https://github.com/nleitao/MachineLearning-A-Z-Udemy.git
+git remote add origin https://github.com/nleitao/Udemy.MachineLearning.git
 git push -u origin master
