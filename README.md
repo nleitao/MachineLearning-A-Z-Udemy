@@ -20,3 +20,6 @@ git push -u origin master
 
 ## Remove file from to be commited list:  
 git reset 'file_name'
+
+#When I commit changes to git from other source and want to bring this source up to date:
+git pull
