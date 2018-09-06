@@ -24,5 +24,5 @@ git reset 'file_name'
 ## Se tiver ficheiros que quiser remover do tracked/untracked. Pergunta um a um o que quero fazer  
 git clean -i -fd  
 
-#When I commit changes to git from other source and want to bring this source up to date:
+## When I commit changes to git from other source and want to bring this source up to date:  
 git pull
